@@ -5,7 +5,7 @@
 2. innoDB 技术内幕
 
 #### 网络
-1. 图解tcp
+1. 图解TCP/IP
 2. TCP/IP详解
 
 
